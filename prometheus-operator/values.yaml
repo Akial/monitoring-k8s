@@ -27,7 +27,7 @@ defaultRules:
   rules:
     alertmanager: true
     etcd: true
-    general: true
+    general: false
     k8s: true
     kubeApiserver: true
     kubeApiserverError: true
